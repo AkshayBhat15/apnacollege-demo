@@ -1,3 +1,1 @@
-# apnacollege-demo
-apna college 
-SPARKY
+Author:Akshay Bhat
